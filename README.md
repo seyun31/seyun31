@@ -1,4 +1,13 @@
-## Hi there 👋
+### Hi there! 👋 I'm SeyunLim
+
+🔭 **My Major**:  
+📫 **How to Reach Me**: [My Email](mailto:your.email@example.com)
+
+---
+
+### 🛠️ Languages & Tools
+
+---
 
 <!--
 **seyun31/seyun31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
