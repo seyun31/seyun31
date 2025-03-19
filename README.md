@@ -18,6 +18,7 @@
 <br>
  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Node.Js-5FA04E?style=for-the-badge&logo=Node.Js&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/FireBase-DD2C00?style=for-the-badge&logo=FireBase&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma"/>
 
 <!--
