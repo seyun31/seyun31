@@ -1,12 +1,13 @@
-### Hi there! 👋 I'm SeyunLim
-
-🔭 **My Major**:  
-📫 **How to Reach Me**: [My Email](mailto:your.email@example.com)
+# Welcome to Seyun's github👋
 
 ---
 
-### 🛠️ Stacks & Tools
+### 🛠️ Stacks
+**Current Learning ..**
 
+
+**Language**
+ <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>
 ---
 
 <!--
